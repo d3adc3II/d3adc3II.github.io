@@ -1,17 +1,17 @@
 :root {
-  /* Dracula Colors update color for d3*/
+  /* Dracula Colors update color for d33*/
   --d3-background: #181b28 !important;
   --dracula-current-line: #79E6F2 !important;
-  --dracula-selection: #bd93f9 !important;
+  --dracula-selection: #79E6F2 !important;
   --dracula-foreground: #79E6F2 !important;
   --dracula-comment: #79E6F2 !important;
   --dracula-cyan: #8be9fd !important;
-  --dracula-green: #50fa7b !important;
-  --dracula-orange: #ffb86c !important;
-  --dracula-pink: #b014bd !important;
-  --dracula-purple: #bd93f9 !important;
-  --dracula-red: #ff5555 !important;
-  --dracula-yellow: #f1fa8c !important;
+  --dracula-green: #79E6F2 !important;
+  --dracula-orange: #79E6F2 !important;
+  --dracula-pink: #79E6F2 !important;
+  --dracula-purple: #79E6F2 !important;
+  --dracula-red: #79E6F2 !important;
+  --dracula-yellow: #79E6F2 !important;
   /* Discord Root Colors */
   --background-primary: var(--dracula-background) !important;
   --background-secondary: var(--dracula-background) !important;
