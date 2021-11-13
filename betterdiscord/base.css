@@ -1,14 +1,14 @@
 :root {
   /* Dracula Colors */
-  --dracula-background: #181b28 !important;
-  --dracula-current-line: #44475a !important;
-  --dracula-selection: #44475a !important;
-  --dracula-foreground: #f8f8f2 !important;
-  --dracula-comment: #6272a4 !important;
+  --d3-background: #181b28 !important;
+  --dracula-current-line: #79E6F2 !important;
+  --dracula-selection: #bd93f9 !important;
+  --dracula-foreground: #79E6F2 !important;
+  --dracula-comment: #79E6F2 !important;
   --dracula-cyan: #8be9fd !important;
   --dracula-green: #50fa7b !important;
   --dracula-orange: #ffb86c !important;
-  --dracula-pink: #ff79c6 !important;
+  --dracula-pink: #b014bd !important;
   --dracula-purple: #bd93f9 !important;
   --dracula-red: #ff5555 !important;
   --dracula-yellow: #f1fa8c !important;
@@ -25,7 +25,7 @@
   --channeltextarea-background: var(--dracula-selection) !important;
   --rs-online-color: var(--dracula-green) !important;
   --rs-idle-color: var(--dracula-orange) !important;
-  --rs-dnd-color: var(--dracula-red) !important;
+  --rs-dnd-color: var(--dracula-red) !important;e
   --rs-offline-color: var(--dracula-selection) !important;
   --rs-streaming-color: var(--dracula-purple) !important;
   --rs-invisible-color: var(--dracula-comment) !important;
