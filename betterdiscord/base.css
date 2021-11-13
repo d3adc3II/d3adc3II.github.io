@@ -2,15 +2,15 @@
   /* d3 Colors update color for d33*/
   --d3-background: #181b28 !important;
   --d3-current-line: #79E6F2 !important;
-  --d3-selection: #5317c0 !important;
-  --d3-foreground: #781423 !important;
+  --d3-selection: #2e344e !important;   /* message bar*/
+  --d3-foreground: #79E6F2 !important;  /* message bar button*/
   --d3-comment: #b014bd !important;
   --d3-cyan: #8be9fd !important;
   --d3-green: #16c60c !important;
-  --d3-orange: #79E6F2 !important;
-  --d3-pink: #79E6F2 !important;
+  --d3-orange: orange !important;
+  --d3-pink: orange !important;
   --d3-purple: #79E6F2 !important;
-  --d3-red: #79E6F2 !important;
+  --d3-red: red !important;
   --d3-yellow: #79E6F2 !important;
   /* Discord Root Colors */
   --background-primary: var(--d3-background) !important;
